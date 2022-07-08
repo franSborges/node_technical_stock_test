@@ -1,0 +1,5 @@
+1. npm run start:dev
+
+2. http://localhost:3000/stock
+
+3. Utilizar a extensão Thunder client para testar e selecionar o arquivo para leitura.
